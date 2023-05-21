@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "carbonDb": "Data Source=C:\\Users\\Alex\\source\\repos\\SqlLiteDemo\\CarbonTracker.Data\\Carbon.db;Mode=ReadWrite;"
+    }
+}
