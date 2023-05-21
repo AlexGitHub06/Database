@@ -37,7 +37,7 @@ namespace Database
                 switch (choice)
                 {
                     case "1":
-                        var classes = db.GetClasses(surname);
+                        var classes = db.GetClasses(surname); 
                         PrintClasses(classes);
                         break;
                     case "2":
